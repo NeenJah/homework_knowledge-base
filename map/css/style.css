@@ -1,0 +1,6 @@
+.ymap {
+  min-width: 600px;
+  min-height: 400px;
+  border: 1px solid gray;
+  filter: grayscale(1);
+}
