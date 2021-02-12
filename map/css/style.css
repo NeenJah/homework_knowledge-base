@@ -1,6 +1,9 @@
-.ymap {
+.map {
   min-width: 600px;
   min-height: 400px;
   border: 1px solid gray;
+}
+
+[class*="ground-pane"] {
   filter: grayscale(1);
 }
